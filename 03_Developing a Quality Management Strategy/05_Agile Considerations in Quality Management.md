@@ -1,0 +1,17 @@
+## Agile Considerations in Quality Management
+```
+For members of agile teams, there are a few additional items that you should consider as part of crafting a strategy related to quality management. First of all, quality reviews should take place regularly throughout project work. That shouldn't be a problem since as part of an agile team, you're looking to deliver value on a regular basis to your customer or end user, and you're constantly determining what to work on next by determining where the most value exists for that development to take place. Retrospectives at the end of each sprint provide an opportunity to ensure the effectiveness of your quality‑related efforts as well. So it's not only a good time to be able to plan what your quality reviews should look like for the next sprint, but also to look back on how your quality management efforts perform and how you can continue to improve upon them moving forward. Ensuring optimal value creation is facilitated by meeting quality criteria is also central to our agile efforts. After all, remember, we should be following an obsession with value creation with our agile approach and ensuring that we create a high quality result helps to ensure that that value is maximized as well. Given that agile teams tend to focus on a tight amount of scope over short periods of time benefits a quality‑first mindset because it makes it easier for us to keep a grasp on where our quality focus should lie. A focus on value delivery allows large quality challenges to be identified more quickly as well, such that we can define what our quality goals might be, and what criteria, and how we might measure that quality being achieved will look like processes may be updated more rapidly and often, and quality analysis may yield improved results earlier in project work within agile initiatives, but this makes it all the more important for us to continually revisit what our quality criteria and quality approach might look like, such that we ensure that even as we might rapidly change the way that we are approaching our objectives or even rapidly change our project objectives, our quality strategy can move in lockstep with them.
+```
+
+## Notes
+1. **Regular Quality Reviews**: Quality reviews should take place regularly throughout project work, aligning with the agile principle of delivering value continuously.
+
+2. **Retrospectives**: Use retrospectives at the end of each sprint to evaluate the effectiveness of your quality-related efforts and plan for improvements in the next sprint.
+
+3. **Value Creation**: Prioritize quality to ensure optimal value creation, as a key goal of agile is to deliver value to customers consistently.
+
+4. **Focus on Scope**: Agile teams typically work on a tight scope over short periods, which aligns well with a quality-first mindset and allows for better control over where quality efforts should be concentrated.
+
+5. **Quick Identification of Challenges**: Agile facilitates the rapid identification of large quality challenges, prompting the need to define quality goals, criteria, and measurement processes. 
+
+6. **Rapid Process Updates**: Agile allows for frequent process updates and quality analysis, enabling early improvements in project work. Continually revisit and adapt the quality strategy to align with changing project objectives.
